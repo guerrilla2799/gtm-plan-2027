@@ -1,0 +1,94 @@
+{
+  "company": "Acme Flow (fictional example)",
+  "plan_year": 2027,
+  "starting_arr": 30000000,
+  "new_logo_arr_target": [
+    1800000,
+    2200000,
+    2500000,
+    3000000
+  ],
+  "expansion_arr": [
+    600000,
+    700000,
+    800000,
+    900000
+  ],
+  "churn_arr": [
+    500000,
+    500000,
+    550000,
+    550000
+  ],
+  "gross_margin": 0.78,
+  "other_opex_pct_of_revenue": 0.42,
+  "sales": {
+    "starting_ramped_aes": 12,
+    "hires": [
+      3,
+      3,
+      2,
+      2
+    ],
+    "ramp_quarters": 2,
+    "ramped_productivity_per_qtr": 220000,
+    "attrition_per_qtr": 0.5,
+    "fully_loaded_cost_per_ae_per_year": 260000,
+    "other_sales_cost_per_year": 2500000
+  },
+  "funnel": {
+    "asp": 45000,
+    "close_rates_by_lag": [
+      0.04,
+      0.09,
+      0.08,
+      0.05,
+      0.02,
+      0.01
+    ],
+    "oppty_growth_per_qtr": 0.05,
+    "meeting_to_oppty": 0.5,
+    "oppties_created_prior_year": [
+      150,
+      160,
+      170,
+      180
+    ]
+  },
+  "pipeline": {
+    "source_mix": {
+      "Marketing": 0.5,
+      "SDR / outbound": 0.25,
+      "Sales self-sourced": 0.15,
+      "Partners": 0.1
+    },
+    "starting_coverage_target": 3.0,
+    "pipe_to_spend": 12
+  },
+  "marketing_budget": {
+    "people": 3200000,
+    "programs_strategic_capture": 1500000,
+    "programs_strategic_create": 800000,
+    "programs_fixed": 400000,
+    "programs_experiments": 500000,
+    "infrastructure_tools": 450000,
+    "ai_tools_and_usage": 250000
+  },
+  "scenarios": {
+    "Baseline": {
+      "new_logo_mult": 1.0,
+      "spend_mult": 1.0,
+      "out_year_new_logo_growth": 0.25
+    },
+    "Growth": {
+      "new_logo_mult": 1.2,
+      "spend_mult": 1.3,
+      "out_year_new_logo_growth": 0.35
+    },
+    "Profit": {
+      "new_logo_mult": 0.85,
+      "spend_mult": 0.8,
+      "out_year_new_logo_growth": 0.15
+    }
+  }
+}
