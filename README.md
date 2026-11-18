@@ -53,7 +53,7 @@ All of this is in my own words, with links to Kellogg's originals in `references
 
 ### Claude Code
 ```
-git clone https://github.com/<your-account>/gtm-plan-2027.git ~/.claude/skills/gtm-plan-2027
+git clone https://github.com/guerrilla2799/gtm-plan-2027.git ~/.claude/skills/gtm-plan-2027
 ```
 Then ask Claude Code to build your 2027 plan.
 
