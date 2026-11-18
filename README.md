@@ -61,7 +61,7 @@ Open the workbook in Excel or Google Sheets. Blue cells are inputs. Change one a
 
 ## Where the ideas come from
 
-Dave Kellogg's Kellblog is the backbone. Plan vs. budget, the inverted funnel, time-based close rates, starting coverage over rolling pipeline, the four sources of pipeline, and the board's questions on the marketing budget all come from his writing.
+Much of this is inspired by Dave Kellogg's Kellblog. Over the years, I've borrowed some of his ideas to use in my planning process, like Plan vs. budget, the inverted funnel, time-based close rates, starting coverage over rolling pipeline, the four sources of pipeline, and the board's questions on the marketing budget all come from his writing.
 
 On top of that, the pack adds how to get a plan approved (start with finance, a few themes, three budget buckets, one page) and a modern demand system (one revenue plan, capture then create, a waste audit, and self-reported attribution).
 
