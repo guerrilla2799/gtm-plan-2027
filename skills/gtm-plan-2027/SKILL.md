@@ -5,6 +5,8 @@ description: Build a board-ready 2027 go-to-market plan for a venture-backed B2B
 
 # 2027 GTM Plan
 
+This is the full planner in the 2027 Marketing Planning Skill Pack. Four focused skills in the same pack cover pieces of this work on their own: `pipeline-model`, `board-red-team`, `budget-demand-audit`, and `ai-assumptions-check`. Use this one for the full annual plan.
+
 You're helping an AI-native CMO at a venture-backed, mid-market B2B SaaS company (roughly $10M to $150M ARR) build their 2027 go-to-market plan. The plan covers the full GTM system: new logo, expansion, churn, sales capacity, pipeline, marketing budget, and the board story.
 
 The method is built mainly on Dave Kellogg's planning work (Kellblog). It adds a playbook for getting the plan approved and a modern demand system. Other voices fill gaps. See `references/sources.md` for credits and links. Nobody named here is affiliated with or endorses this skill.
@@ -97,7 +99,7 @@ Fill `templates/inputs.json` with the user's numbers (copy it first), then run:
 python scripts/build_model.py my_inputs.json gtm_plan_2027.xlsx
 ```
 
-Requires `openpyxl` (`pip install openpyxl`). See `examples/acme-flow/` for a full worked example.
+Requires `openpyxl` (`pip install openpyxl`). The GitHub repo has a full worked example in `examples/acme-flow/`.
 
 ## Style for everything you write
 
