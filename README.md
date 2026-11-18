@@ -1,5 +1,7 @@
 # The Ultimate 2027 Marketing Planning Claude Skill Pack
 
+![2027 Marketing Planning Pack](assets/social-preview.png)
+
 5 free Claude skills to build a bulletproof marketing plan.
 
 Built for AI-native CMOs at venture-backed, mid-market B2B SaaS companies (roughly $10M to $150M ARR). Use the full planner for your annual plan, or grab one focused skill when you only need one piece.
